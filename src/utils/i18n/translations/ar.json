@@ -1,0 +1,152 @@
+{
+  "nav": {
+    "swap": "مبادلة",
+    "liquidity": "السيولة",
+    "tokens": "الرموز",
+    "staking": "التخزين",
+    "wallet": "ربط المحفظة",
+    "search": "البحث عن أزواج السيولة أو الرمز"
+  },
+  "swap": {
+    "post24Hours": "آخر 24 ساعة",
+    "swap": "مبادلة",
+    "from": "من",
+    "useMax": "استخدام الحد الأقصى",
+    "balance": "الرصيد",
+    "to": "إلى",
+    "slippageTolerance": "تحمل الانزلاق",
+    "enterAmount": "أدخل المبلغ"
+  },
+  "liquidityTable": {
+    "title": "مجمعات السيولة",
+    "subtitle": "توفير السيولة",
+    "concentrated": "مركّز",
+    "standard": "قياسي",
+    "all": "الكل",
+    "search": "البحث عن أزواج السيولة أو الرمز",
+    "create": "إنشاء",
+    "pool": "المجمع",
+    "feeTier": "feeTier",
+    "liquidity": "السيولة",
+    "volume": "حجم التداول 24 ساعة",
+    "fee": "الرسوم (24 ساعة)",
+    "apr": "نسبة العائد السنوي",
+    "volume24": "حجم التداول (24 ساعة)",
+    "deposit": "إيداع"
+  },
+  "chartButtons": {
+    "volume": "عرض على BscScan",
+    "liquidity": "السيولة",
+    "fees": "الرسوم",
+    "tvl": "القيمة الإجمالية المحجوزة",
+    "fee": "فئة الرسوم",
+    "network": "الشبكة",
+    "apr": "نسبة العائد السنوي",
+    "poolType": "نوع المجمع",
+    "v3": "الإصدار الثالث",
+    "pairInfo": "معلومات الزوج"
+  },
+  "liquidity": {
+    "earn": "liquidity to earn"
+  },
+  "liquidityView": {
+    "viewOnBSC": "عرض على BscScan",
+    "fee": "فئة الرسوم",
+    "network": "الشبكة",
+    "bnbChain": "سلسلة BNB",
+    "apr": "نسبة العائد السنوي",
+    "poolType": "نوع المجمع",
+    "v3": "الإصدار الثالث",
+    "pairInfo": "معلومات الزوج",
+    "past24Hour": "آخر 24 ساعة",
+    "addLiquidity": "Add Liquidity"
+  },
+  "tokenTable": {
+    "allTokens": "جميع الرموز",
+    "name": "الاسم",
+    "price": "السعر",
+    "priceChange": "تغير السعر",
+    "volume": "حجم التداول (24 ساعة)",
+    "tvl": "القيمة الإجمالية المحجوزة",
+    "volumeTvl": "حجم التداول/القيمة الإجمالية",
+    "pairInfo": "معلومات الزوج"
+  },
+  "tokenView": {
+    "viewOnBSC": "عرض على BscScan",
+    "addLiquidity": "إضافة سيولة",
+    "trade": "تداول",
+    "priceChange": "تغير السعر",
+    "price": "السعر",
+    "volume": "حجم التداول (24 ساعة)",
+    "volume7d": "Volume (7 D)",
+    "transaction": "المعاملات خلال 24 ساعة",
+    "tvl": "القيمة الإجمالية المحجوزة"
+  },
+  "staking": {
+    "title": "التخزين",
+    "subTitle": "قم بتخزين $SHRX لكسب عوائد إضافية من $SHX",
+    "createStake": "إنشاء مجمع تخزين",
+    "shrx": "$SHRX",
+    "pendingReward": "المكافأة المعلقة",
+    "staked": "تم التخزين",
+    "apr": "نسبة العائد السنوي",
+    "liquidity": "السيولة",
+    "totalLocked": "إجمالي المحجوز",
+    "averageLockDuration": "متوسط مدة القفل",
+    "getSHRX": "احصل على $SHRX الآن!",
+    "days": "يوم",
+    "stakeAndLock": "قم بتخزين وقفل $SHRX للاستمتاع بالمزيد من المكافآت والفوائد!",
+    "returns": "العوائد"
+  },
+  "swapModal": {
+    "title": "إعدادات المبادلة",
+    "swapSlippage": "سرعة المعاملة الافتراضية (GWEI)",
+    "default": "افتراضي",
+    "instant": "فوري (7)",
+    "standard": "قياسي (5)",
+    "fast": "سريع",
+    "liquiditySlippage": "تحمل انزلاق السيولة",
+    "txDeadline": "الموعد النهائي للمعاملة",
+    "min": "دقيقة",
+    "reset": "إعادة تعيين"
+  },
+  "exchangeModal": {
+    "title": "إعدادات التبادل",
+    "swapSlippage": "تحمل انزلاق المبادلة",
+    "custom": "مخصص",
+    "slippageTolerance": "تحمل الانزلاق",
+    "language": "اللغة"
+  },
+  "newTokenModal": {
+    "title": "إضافة رمز جديد",
+    "enterAddress": "أدخل عنوان الرمز",
+    "addToken": "إضافة رمز",
+    "errors": {
+      "invalidAddress": "عنوان غير صالح",
+      "tokenAlreadyAdded": "!تمت إضافة الرمز المميز بالفعل"
+    },
+    "success": {
+      "tokenAdded": "!تمت إضافة الرمز المميز {symbol} بنجاح"
+    },
+    "apply": "تطبيق"
+  },
+  "createStakingModal": {
+    "title": "إعداد مجمع التخزين",
+    "tokenAddress": "عنوان الرمز",
+    "poolAmount": "كمية المجمع المتاحة",
+    "apy": "نسبة العائد السنوي المتوقعة",
+    "lockPeriodInDays": "فترة القفل بالأيام",
+    "enterTokenAddress": "أدخل عنوان الرمز",
+    "enterPool": "أدخل سعة المجمع",
+    "create": "إنشاء"
+  },
+  "getStakingModal": {
+    "return": "العائد",
+    "looking": "البحث عن",
+    "day": "أيام",
+    "estimatedReturn": "العائد المتوقع",
+    "stakeAmount": "كمية التخزين",
+    "max": "الحد الأقصى",
+    "stake": "تخزين"
+  }
+}

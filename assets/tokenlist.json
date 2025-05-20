@@ -1,0 +1,3132 @@
+{
+  "name": "MDEX BSC token List",
+  "timestamp": "2020-08-11T22:55:13.889Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 6
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
+  "keywords": [
+    "MDEX",
+    "default",
+    "BSC"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped BNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI": "https://mdex.co/token-icons/bsc/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "Binance-Peg BUSD Token",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI": "https://mdex.co/token-icons/bsc/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "Binance-Peg BTCB Token",
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+    },
+    {
+      "name": "Binance-Peg Ethereum Token",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    },
+    {
+      "name": "Binance-Peg BUSD-T",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+    {
+      "name": "Swipe",
+      "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
+      "symbol": "SXP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x47bead2563dcbf3bf2c9407fea4dc236faba485a.png"
+    },
+    {
+      "name": "Binance-Peg Polkadot Token",
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "symbol": "DOT",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png"
+    },
+    {
+      "name": "Binance Beacon ETH",
+      "address": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b",
+      "symbol": "BETH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x250632378e573c6be1ac2f97fcdf00515d0aa91b.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
+    },
+    {
+      "name": "Binance-Peg Cardano Token",
+      "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+      "symbol": "ADA",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png"
+    },
+    {
+      "name": "Binance-Peg ChainLink Token",
+      "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI": "https://mdex.co/token-icons/bsc/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd.png"
+    },   
+    {
+      "name": "Binance-Peg Dai Token",
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
+    },    
+    {
+      "name": "Binance-Peg Litecoin Token",
+      "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "symbol": "LTC",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4338665cbb7b2485a8855a139b75d5e34ab0db94.png"
+    },    
+    {
+      "name": "Binance-Peg XRP Token",
+      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "symbol": "XRP",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe.png"
+    },   
+    {
+      "name": "Binance-Peg Uniswap",
+      "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbf5140a22578168fd562dccf235e5d43a02ce9b1.png"
+    },    
+    {
+      "name": "Binance-Peg Bitcoin Cash Token",
+      "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+      "symbol": "BCH",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf.png"
+    },    
+    {
+      "name": "Binance-Peg Band Protocol Token",
+      "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "symbol": "BAND",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18.png"
+    },    
+    {
+      "name": "Binance-Peg Compound Coin",
+      "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
+      "symbol": "COMP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x52ce071bd9b1c4b00a0b92d298c512478cad67e8.png"
+    }, 
+    {
+      "name": "Injective Protocol",
+      "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+      "symbol": "INJ",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa2b726b1145a4773f68593cf171187d8ebe4d495.png"
+    },
+    {
+      "name": "Binance-Peg EOS Token",
+      "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+      "symbol": "EOS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6.png"
+    }, 
+    {
+      "name": "Binance-Peg yearn.finance",
+      "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+      "symbol": "YFI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e.png"
+    }, 
+    {
+      "name": "Binance-Peg Cosmos Token",
+      "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+      "symbol": "ATOM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0eb3a705fc54725037cc9e008bdede697f62f335.png"
+    }, 
+    {
+      "name": "Binance-Peg Filecoin",
+      "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+      "symbol": "FIL",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153.png"
+    }, 
+    {
+      "name": "Binance-Peg Tezos Token",
+      "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+      "symbol": "XTZ",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x16939ef78684453bfdfb47825f8a5f714f12623a.png"
+    }, 
+    {
+      "name": "Binance-Peg IoTeX Network",
+      "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
+      "symbol": "IOTX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9678e42cebeb63f23197d726b29b1cb20d0064e5.png"
+    }, 
+    {
+      "name": "Bella Protocol",
+      "address": "0x8443f091997f06a61670b735ed92734f5628692f",
+      "symbol": "BEL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8443f091997f06a61670b735ed92734f5628692f.png"
+    }, 
+    {
+      "name": "Binance-Peg YFII.finance Token",
+      "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
+      "symbol": "YFII",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5.png"
+    }, 
+    {
+      "name": "Binance-Peg Synthetix Network Token",
+      "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
+      "symbol": "SNX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9ac983826058b8a9c7aa1c9171441191232e8404.png"
+    }, 
+    {
+      "name": "Binance-Peg Ontology Token",
+      "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
+      "symbol": "ONT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xfd7b3a77848f1c2d67e05e54d78d174a0c850335.png"
+    }, 
+    {
+      "name": "Binance-Peg Dogecoin",
+      "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+      "symbol": "DOGE",
+      "decimals": 8,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xba2ae424d960c26247dd6c32edc70b295c744c43.png"
+    }, 
+    {
+      "name": "Binance-Peg Basic Attention Token",
+      "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
+      "symbol": "BAT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x101d82428437127bf1608f699cd651e6abf9766e.png"
+    }, 
+    {
+      "name": "Binance-Peg Zcash Token",
+      "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+      "symbol": "ZEC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb.png"
+    }, 
+    {
+      "name": "Binance-Peg Maker",
+      "address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
+      "symbol": "MKR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5f0da599bb2cccfcf6fdfd7d81743b6020864350.png"
+    }, 
+    {
+      "name": "Binance-Peg NEAR Protocol",
+      "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
+      "symbol": "NEAR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1fa4a73a3f0133f0025378af00236f3abdee5d63.png"
+    }, 
+    {
+      "name": "Binance-Peg Paxos Standard",
+      "address": "0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094",
+      "symbol": "PAX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094.png"
+    },
+    {
+      "name": "Binance-Peg HMDX",
+      "address": "0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668",
+      "symbol": "HMDX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xaee4164c1ee46ed0bbc34790f1a3d1fc87796668.png"
+    },
+    {
+      "name": "Binance-Peg SUSHI",
+      "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x947950bcc74888a40ffa2593c5798f11fc9124c4.png"
+    },
+    {
+      "name": "Binance-Peg CAKE",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "symbol": "CAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Binance-Peg AUTO",
+      "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+      "symbol": "AUTO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa184088a740c695e156f91f5cc086a06bb78b827.png"
+    },
+    {
+      "name": "Binance-Peg XVS",
+      "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+      "symbol": "XVS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63.png"
+    },
+    {
+      "name": "Binance-Peg BELT",
+      "address": "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f",
+      "symbol": "BELT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe0e514c71282b6f4e823703a39374cf58dc3ea4f.png"
+    },
+    {
+      "name": "Binance-Peg EPS",
+      "address": "0xa7f552078dcc247c2684336020c03648500c6d9f",
+      "symbol": "EPS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa7f552078dcc247c2684336020c03648500c6d9f.png"
+    },
+    {
+      "name": "Binance-Peg ALPACA",
+      "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+      "symbol": "ALPACA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8f0528ce5ef7b51152a59745befdd91d97091d2f.png"
+    },
+    {
+      "name": "Binance-Peg DEGO",
+      "address": "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC",
+      "symbol": "DEGO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3fda9383a84c05ec8f7630fe10adf1fac13241cc.png"
+    },
+    {
+      "name": "Binance-Peg HELMET",
+      "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
+      "symbol": "HELMET",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8.png"
+    },
+    {
+      "name": "Binance-Peg MDX",
+      "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
+      "symbol": "MDX",
+      "decimals": 18,
+      "chainId": 56,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9c65ab58d8d978db963e63f2bfb7121627e3a739.png"
+    },
+    {
+      "name": "Binance-Peg BOR",
+      "address": "0x92d7756c60dcfd4c689290e8a9f4d263b3b32241",
+      "symbol": "BOR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x92d7756c60dcfd4c689290e8a9f4d263b3b32241.png"
+    },
+    {
+      "name": "Binance-Peg sBGO",
+      "address": "0x53F39324Fbb209693332B87aA94D5519A1a49aB0",
+      "symbol": "sBGO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x53f39324fbb209693332b87aa94d5519a1a49ab0.png"
+    },
+    {
+      "name": "GURU",
+      "address": "0xf1932ec9784b695520258f968b9575724af6efa8",
+      "symbol": "GURU",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf1932ec9784b695520258f968b9575724af6efa8.png"
+    },
+    {
+      "name": "xBLZD",
+      "address": "0x9a946c3cb16c08334b69ae249690c236ebd5583e",
+      "symbol": "xBLZD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9a946c3cb16c08334b69ae249690c236ebd5583e.png"
+    },
+    {
+      "name": "SWFTC",
+      "address": "0xe64e30276c2f826febd3784958d6da7b55dfbad3",
+      "symbol": "SWFTC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe64e30276c2f826febd3784958d6da7b55dfbad3.png"
+    },
+    {
+      "name": "FRONT",
+      "address": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
+      "symbol": "FRONT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x928e55dab735aa8260af3cedada18b5f70c72f1b.png"
+    },
+    {
+      "name": "UBU",
+      "address": "0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f",
+      "symbol": "UBU",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f.png"
+    },
+    {
+      "name": "vBSWAP",
+      "address": "0x4f0ed527e8a95ecaa132af214dfd41f30b361600",
+      "symbol": "vBSWAP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4f0ed527e8a95ecaa132af214dfd41f30b361600.png"
+    },
+    {
+      "name": "HAKKA",
+      "address": "0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac",
+      "symbol": "HAKKA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac.png"
+    },
+    {
+      "name": "BRY",
+      "address": "0xf859bf77cbe8699013d6dbc7c2b926aaf307f830",
+      "symbol": "BRY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf859bf77cbe8699013d6dbc7c2b926aaf307f830.png"
+    },
+    {
+      "name": "MOK",
+      "address": "0x75a998c5023eb955a371eea5038b7c2776dbc22e",
+      "symbol": "MOK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x75a998c5023eb955a371eea5038b7c2776dbc22e.png"
+    },
+    {
+      "name": "NAUT",
+      "address": "0x05b339b0a346bf01f851dde47a5d485c34fe220c",
+      "symbol": "NAUT",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x05b339b0a346bf01f851dde47a5d485c34fe220c.png"
+    },
+    {
+      "name": "SWAMP",
+      "address": "0xc5a49b4cbe004b6fd55b30ba1de6ac360ff9765d",
+      "symbol": "SWAMP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc5a49b4cbe004b6fd55b30ba1de6ac360ff9765d.png"
+    },
+    {
+      "name": "ACS",
+      "address": "0x4197c6ef3879a08cd51e5560da5064b773aa1d29",
+      "symbol": "ACS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4197c6ef3879a08cd51e5560da5064b773aa1d29.png"
+    },
+    {
+      "name": "ACSI",
+      "address": "0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389",
+      "symbol": "ACSI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389.png"
+    },
+    {
+      "name": "WATCH",
+      "address": "0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0",
+      "symbol": "WATCH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0.png"
+    },
+    {
+      "name": "bcFLUX",
+      "address": "0x0747cda49c82d3fc6b06df1822e1de0c16673e9f",
+      "symbol": "bcFLUX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0747cda49c82d3fc6b06df1822e1de0c16673e9f.png"
+    },
+    {
+      "name": "BIFI",
+      "address": "0xca3f508b8e4dd382ee878a314789373d80a5190a",
+      "symbol": "BIFI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xca3f508b8e4dd382ee878a314789373d80a5190a.png"
+    },
+    {
+      "name": "DEK",
+      "address": "0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98",
+      "symbol": "DEK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98.png"
+    },
+    {
+      "name": "SHIELD",
+      "address": "0x00f97c17f4dc4f3bfd2dd9ce5e67f3a339a8a261",
+      "symbol": "SHIELD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x00f97c17f4dc4f3bfd2dd9ce5e67f3a339a8a261.png"
+    },
+    {
+      "name": "FOR",
+      "address": "0x658a109c5900bc6d2357c87549b651670e5b0539",
+      "symbol": "FOR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x658a109c5900bc6d2357c87549b651670e5b0539.png"
+    },
+    {
+      "name": "BIRD",
+      "address": "0x7f1296e5aa692a98d86eaae3ac1cd7723e74878d",
+      "symbol": "BIRD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7f1296e5aa692a98d86eaae3ac1cd7723e74878d.png"
+    },
+    {
+      "name": "FREN",
+      "address": "0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af",
+      "symbol": "FREN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af.png"
+    },
+    {
+      "name": "LION",
+      "address": "0x7969dc3c6e925bccbea9f7fc466a63c74f0115b8",
+      "symbol": "LION",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7969dc3c6e925bccbea9f7fc466a63c74f0115b8.png"
+    },
+    {
+      "name": "YFX",
+      "address": "0xf55a93b613d172b86c2ba3981a849dae2aecde2f",
+      "symbol": "YFX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf55a93b613d172b86c2ba3981a849dae2aecde2f.png"
+    },
+    {
+      "name": "WTML",
+      "address": "0x378043d0ac29def288017be291fa260e33c7fe86",
+      "symbol": "WTML",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x378043d0ac29def288017be291fa260e33c7fe86.png"
+    },
+    {
+      "name": "MOMO",
+      "address": "0xafb2997fe9a99022e61c7e01b974e0e3d7704b02",
+      "symbol": "MOMO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xafb2997fe9a99022e61c7e01b974e0e3d7704b02.png"
+    },
+    {
+      "name": "HGT",
+      "address": "0x680052792714e10e1ef7cda551abca8667862053",
+      "symbol": "HGT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x680052792714e10e1ef7cda551abca8667862053.png"
+    },
+    {
+      "name": "SAFEMOON",
+      "address": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+      "symbol": "SAFEMOON",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3.png"
+    },
+    {
+      "name": "ECP",
+      "address": "0x375483cfa7fc18f6b455e005d835a8335fbdbb1f",
+      "symbol": "ECP",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x375483cfa7fc18f6b455e005d835a8335fbdbb1f.png"
+    },
+    {
+      "name": "SAFEMARS",
+      "address": "0x3ad9594151886ce8538c1ff615efa2385a8c3a88",
+      "symbol": "SAFEMARS",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3ad9594151886ce8538c1ff615efa2385a8c3a88.png"
+    },
+    {
+      "name": "MSI",
+      "address": "0xa0f23f46ac0b1d82fa212085782e0c597b8d7154",
+      "symbol": "MSI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa0f23f46ac0b1d82fa212085782e0c597b8d7154.png"
+    },
+    {
+      "name": "XFORCE",
+      "address": "0x0ab9bc77f365fc5ad4d98a81d464d4588c361776",
+      "symbol": "XFORCE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0ab9bc77f365fc5ad4d98a81d464d4588c361776.png"
+    },
+    {
+      "name": "O3",
+      "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+      "symbol": "O3",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xee9801669c6138e84bd50deb500827b776777d28.png"
+    },
+    {
+      "name": "cCBD",
+      "address": "0x131ded61462cb0f8034656d9294f79247f72ad0b",
+      "symbol": "cCBD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x131ded61462cb0f8034656d9294f79247f72ad0b.png"
+    },
+    {
+      "name": "BGO",
+      "address": "0x579a6277a6c2c63a5b25006f63bce5dc8d9c25e7",
+      "symbol": "BGO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x579a6277a6c2c63a5b25006f63bce5dc8d9c25e7.png"
+    },
+    {
+      "name": "Ysoy",
+      "address": "0x57488fcc3dc72edb0a4c06a356c2c43c08bdfb42",
+      "symbol": "Ysoy",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x57488fcc3dc72edb0a4c06a356c2c43c08bdfb42.png"
+    },
+    {
+      "name": "PEKC",
+      "address": "0x050787de0cf5da03d9387b344334d51cae5dd0fd",
+      "symbol": "PEKC",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x050787de0cf5da03d9387b344334d51cae5dd0fd.png"
+    },
+    {
+      "name": "WENMOON",
+      "address": "0xb93ba7dc61ecfced69067151fc00c41ca369a797",
+      "symbol": "WENMOON",
+      "decimals": 7,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xb93ba7dc61ecfced69067151fc00c41ca369a797.png"
+    },
+    {
+      "name": "RABBIT",
+      "address": "0x95a1199eba84ac5f19546519e287d43d2f0e1b41",
+      "symbol": "RABBIT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x95a1199eba84ac5f19546519e287d43d2f0e1b41.png"
+    },
+    {
+      "name": "XY",
+      "address": "0x819f74886e145d97d24c4d72b889ec93e8247702",
+      "symbol": "XY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x819f74886e145d97d24c4d72b889ec93e8247702.png"
+    },
+    {
+      "name": "NEWB",
+      "address": "0x545f90dc35ca1e6129f1fed354b3e2df12034261",
+      "symbol": "NEWB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x545f90dc35ca1e6129f1fed354b3e2df12034261.png"
+    },
+    {
+      "name": "BHC",
+      "address": "0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4",
+      "symbol": "BHC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4.png"
+    },
+    {
+      "name": "SAVEANIMAL",
+      "address": "0xaa2c290bf62b7d100d2d7f87b7223e3a71b737f7",
+      "symbol": "SAVEANIMAL",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xaa2c290bf62b7d100d2d7f87b7223e3a71b737f7.png"
+    },
+    {
+      "name": "WOO",
+      "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+      "symbol": "WOO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.png"
+    },
+    {
+      "name": "LEV",
+      "address": "0xbc194e6f748a222754c3e8b9946922c09e7d4e91",
+      "symbol": "LEV",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbc194e6f748a222754c3e8b9946922c09e7d4e91.png"
+    },
+    {
+      "name": "Lss",
+      "address": "0xf375f9d91809a5615331d7f28a5024804193ba0d",
+      "symbol": "Lss",
+      "decimals": 0,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf375f9d91809a5615331d7f28a5024804193ba0d.png"
+    },
+    {
+      "name": "CIFI",
+      "address": "0x89f2a5463ef4e4176e57eef2b2fdd256bf4bc2bd",
+      "symbol": "CIFI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x89f2a5463ef4e4176e57eef2b2fdd256bf4bc2bd.png"
+    },
+    {
+      "name": "DPET",
+      "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+      "symbol": "DPET",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xfb62ae373aca027177d1c18ee0862817f9080d08.png"
+    },
+    {
+      "name": "TENFI",
+      "address": "0xd15c444f1199ae72795eba15e8c1db44e47abf62",
+      "symbol": "TENFI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd15c444f1199ae72795eba15e8c1db44e47abf62.png"
+    },
+    {
+      "name": "LAS",
+      "address": "0x735ebe3ed47877a11023b904054a0ffe44e91ab7",
+      "symbol": "LAS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x735ebe3ed47877a11023b904054a0ffe44e91ab7.png"
+    },
+    {
+      "name": "EnergyX",
+      "address": "0xbbe899c61198d1826a43e20ea19efc46e50c2b00",
+      "symbol": "EnergyX",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbbe899c61198d1826a43e20ea19efc46e50c2b00.png"
+    },
+    {
+      "name": "BONDLY",
+      "address": "0x96058f8c3e16576d9bd68766f3836d9a33158f89",
+      "symbol": "BONDLY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x96058f8c3e16576d9bd68766f3836d9a33158f89.png"
+    },
+    {
+      "name": "ARI",
+      "address": "0xbe9605a0bf1ef8a4235e2c1da83dd3aa7702c7ce",
+      "symbol": "ARI",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbe9605a0bf1ef8a4235e2c1da83dd3aa7702c7ce.png"
+    },
+    {
+      "name": "LESS",
+      "address": "0xb698ac9bc82c718d8eba9590564b9a5aa53d58e6",
+      "symbol": "LESS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xb698ac9bc82c718d8eba9590564b9a5aa53d58e6.png"
+    },
+    {
+      "name": "bMXX",
+      "address": "0x4131b87f74415190425ccd873048c708f8005823",
+      "symbol": "bMXX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4131b87f74415190425ccd873048c708f8005823.png"
+    },
+    {
+      "name": "GSSIT",
+      "address": "0xd20595346ca72f82be355e2a603bfa8b0fd86e33",
+      "symbol": "GSSIT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd20595346ca72f82be355e2a603bfa8b0fd86e33.png"
+    },
+    {
+      "name": "BODAV2",
+      "address": "0xdc847755343c3a2b94d6afc0aae57651e1b14064",
+      "symbol": "BODAV2",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xdc847755343c3a2b94d6afc0aae57651e1b14064.png"
+    },
+    {
+      "name": "RSD",
+      "address": "0x61ed1c66239d29cc93c8597c6167159e8f69a823",
+      "symbol": "RSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x61ed1c66239d29cc93c8597c6167159e8f69a823.png"
+    },
+    {
+      "name": "TWIN",
+      "address": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
+      "symbol": "TWIN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xaf83f292fced83032f52ced45ef7dbddb586441a.png"
+    },
+    {
+      "name": "OUP",
+      "address": "0x07340f61633fc21b59edef1d4fb5c36cf1f098e2",
+      "symbol": "OUP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x07340f61633fc21b59edef1d4fb5c36cf1f098e2.png"
+    },
+    {
+      "name": "CCF",
+      "address": "0xf823f18d13df1ffdced206708d389dd455bb802b",
+      "symbol": "CCF",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf823f18d13df1ffdced206708d389dd455bb802b.png"
+    },
+    {
+      "name": "bFLUX",
+      "address": "0x1ab6478b47270ff05af11a012ac17b098758e193",
+      "symbol": "bFLUX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1ab6478b47270ff05af11a012ac17b098758e193.png"
+    },
+    {
+      "name": "DFN",
+      "address": "0xcb52860adb0556999b13ddf58967a881d1aa1c10",
+      "symbol": "DFN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xcb52860adb0556999b13ddf58967a881d1aa1c10.png"
+    },
+    {
+      "name": "PRV",
+      "address": "0x7762a14082ab475c06d3868b385e46ae27017231",
+      "symbol": "PRV",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7762a14082ab475c06d3868b385e46ae27017231.png"
+    },
+    {
+      "name": "TRUXTR",
+      "address": "0xda004bdc11cdcadd3c75a66e117a26927d24b373",
+      "symbol": "TRUXTR",
+      "decimals": 12,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xda004bdc11cdcadd3c75a66e117a26927d24b373.png"
+    },
+    {
+      "name": "GMY",
+      "address": "0x4b71bd5e1db6cce4179e175a3a2033e4f17b7432",
+      "symbol": "GMY",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4b71bd5e1db6cce4179e175a3a2033e4f17b7432.png"
+    },
+    {
+      "name": "CLUB",
+      "address": "0xf378b36a55a52fb9181dffc26882a4b08a044361",
+      "symbol": "CLUB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf378b36a55a52fb9181dffc26882a4b08a044361.png"
+    },
+    {
+      "name": "MIX",
+      "address": "0x398f7827dccbefe6990478876bbf3612d93baf05",
+      "symbol": "MIX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x398f7827dccbefe6990478876bbf3612d93baf05.png"
+    },
+    {
+      "name": "xMARK",
+      "address": "0x26a5dfab467d4f58fb266648cae769503cec9580",
+      "symbol": "xMARK",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x26a5dfab467d4f58fb266648cae769503cec9580.png"
+    },
+    {
+      "name": "A11",
+      "address": "0x745f99f9988e118c8203dc3fd5fd94a7a6c93302",
+      "symbol": "A11",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x745f99f9988e118c8203dc3fd5fd94a7a6c93302.png"
+    },
+    {
+      "name": "CHA",
+      "address": "0xe6ef876a84c4c619c737f71d851c6cc40e257403",
+      "symbol": "CHA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe6ef876a84c4c619c737f71d851c6cc40e257403.png"
+    },
+    {
+      "name": "YEFI",
+      "address": "0x193b8230f594f63da50876eaf362177d1dca4a45",
+      "symbol": "YEFI",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x193b8230f594f63da50876eaf362177d1dca4a45.png"
+    },
+    {
+      "name": "DEP",
+      "address": "0xcaf5191fc480f43e4df80106c7695eca56e48b18",
+      "symbol": "DEP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xcaf5191fc480f43e4df80106c7695eca56e48b18.png"
+    },
+    {
+      "name": "YFIC",
+      "address": "0x2fc42d0f30ae678c8b4d3c04f77f176a36531b64",
+      "symbol": "YFIC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x2fc42d0f30ae678c8b4d3c04f77f176a36531b64.png"
+    },
+    {
+      "name": "CARROT",
+      "address": "0xa5043373edc09f3f7d87fe35ca933e0a7b59d005",
+      "symbol": "CARROT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa5043373edc09f3f7d87fe35ca933e0a7b59d005.png"
+    },
+    {
+      "name": "TURTLE",
+      "address": "0xd02fa440e100412294871d3433be019756cb8db5",
+      "symbol": "TURTLE",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd02fa440e100412294871d3433be019756cb8db5.png"
+    },
+    {
+      "name": "BCZZ",
+      "address": "0x2fb9376cff6fb7f5fe99665ae1ec2fddd5099134",
+      "symbol": "BCZZ",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x2fb9376cff6fb7f5fe99665ae1ec2fddd5099134.png"
+    },
+    {
+      "name": "bMYC",
+      "address": "0x6180d382913e0585062336e5fd5e85cec5ac6c78",
+      "symbol": "bMYC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6180d382913e0585062336e5fd5e85cec5ac6c78.png"
+    },
+    {
+      "name": "DAWG",
+      "address": "0x221532ea2601a16e3abdc4efe4d5c325bbbba436",
+      "symbol": "DAWG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x221532ea2601a16e3abdc4efe4d5c325bbbba436.png"
+    },
+    {
+      "name": "TUSD",
+      "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x14016e85a25aeb13065688cafb43044c2ef86784.png"
+    },
+    {
+      "name": "ETHST",
+      "address": "0xeaa2badd888324100669481e46d2329796531ef1",
+      "symbol": "ETHST",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xeaa2badd888324100669481e46d2329796531ef1.png"
+    },
+    {
+      "name": "ET",
+      "address": "0x18b2978d7e4eac4a00c66ab00d68ba7e77141a79",
+      "symbol": "ET",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x18b2978d7e4eac4a00c66ab00d68ba7e77141a79.png"
+    },
+    {
+      "name": "Poke",
+      "address": "0x8ab6f50cdae1880b7dc0cbe49ee2e3cfacf592e2",
+      "symbol": "Poke",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8ab6f50cdae1880b7dc0cbe49ee2e3cfacf592e2.png"
+    },
+    {
+      "name": "GNT",
+      "address": "0xf750a26eb0acf95556e8529e72ed530f3b60f348",
+      "symbol": "GNT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf750a26eb0acf95556e8529e72ed530f3b60f348.png"
+    },
+    {
+      "name": "SLTH",
+      "address": "0x5b9dbebbad94b8c6467af9e8a851bb120f9601c6",
+      "symbol": "SLTH",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5b9dbebbad94b8c6467af9e8a851bb120f9601c6.png"
+    },
+    {
+      "name": "HORA",
+      "address": "0xa6fd7b5c9eee30309b00b65436a284e2053251e5",
+      "symbol": "HORA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa6fd7b5c9eee30309b00b65436a284e2053251e5.png"
+    },
+    {
+      "name": "XPO",
+      "address": "0xebb59cebfb63f218db6b5094dc14abf34d56d35d",
+      "symbol": "XPO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xebb59cebfb63f218db6b5094dc14abf34d56d35d.png"
+    },
+    {
+      "name": "TREES",
+      "address": "0xd3b77ac07c963b8cead47000a5208434d9a8734d",
+      "symbol": "TREES",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd3b77ac07c963b8cead47000a5208434d9a8734d.png"
+    },
+    {
+      "name": "SAFUYIELD",
+      "address": "0xc74cd0042c837ce59210857504ebb0859e06aa22",
+      "symbol": "SAFUYIELD",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc74cd0042c837ce59210857504ebb0859e06aa22.png"
+    },
+    {
+      "name": "LKT",
+      "address": "0xde8fa069707b6322ad45d001425b617f4f1930bd",
+      "symbol": "LKT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xde8fa069707b6322ad45d001425b617f4f1930bd.png"
+    },
+    {
+      "name": "HAM",
+      "address": "0x679d5b2d94f454c950d683d159b87aa8eae37c9e",
+      "symbol": "HAM",
+      "decimals": 7,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x679d5b2d94f454c950d683d159b87aa8eae37c9e.png"
+    },
+    {
+      "name": "TRE",
+      "address": "0xa6cb08514bff2ac5f7583959818e4842ef91e74f",
+      "symbol": "TRE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa6cb08514bff2ac5f7583959818e4842ef91e74f.png"
+    },
+    {
+      "name": "ROKET",
+      "address": "0x5a8316f515cbbcd703b71a5d58f92b4636087dc3",
+      "symbol": "ROKET",
+      "decimals": 12,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5a8316f515cbbcd703b71a5d58f92b4636087dc3.png"
+    },
+    {
+      "name": "SAME",
+      "address": "0xd53f8bd5e8e6114a29d12dfe264f2a565c18b825",
+      "symbol": "SAME",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd53f8bd5e8e6114a29d12dfe264f2a565c18b825.png"
+    },
+    {
+      "name": "BP",
+      "address": "0xacb8f52dc63bb752a51186d1c55868adbffee9c1",
+      "symbol": "BP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xacb8f52dc63bb752a51186d1c55868adbffee9c1.png"
+    },
+    {
+      "name": "WNTR",
+      "address": "0x93f63d9455685621abd73e63cc04f7e454270a66",
+      "symbol": "WNTR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x93f63d9455685621abd73e63cc04f7e454270a66.png"
+    },
+    {
+      "name": "BET",
+      "address": "0x028a52032a7075a42585c037f069c62b49ebaa3d",
+      "symbol": "BET",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x028a52032a7075a42585c037f069c62b49ebaa3d.png"
+    },
+    {
+      "name": "ALPHA",
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa1faa113cbe53436df28ff0aee54275c13b40975.png"
+    },
+    {
+      "name": "VAI",
+      "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+      "symbol": "VAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4bd17003473389a42daf6a0a729f6fdb328bbbd7.png"
+    },
+    {
+      "name": "TKO",
+      "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+      "symbol": "TKO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9f589e3eabe42ebc94a44727b3f3531c0c877809.png"
+    },
+    {
+      "name": "BABYCAKE",
+      "address": "0xdb8d30b74bf098af214e862c90e647bbb1fcc58c",
+      "symbol": "BABYCAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xdb8d30b74bf098af214e862c90e647bbb1fcc58c.png"
+    },
+    {
+      "name": "BabyDoge",
+      "address": "0xc748673057861a797275cd8a068abb95a902e8de",
+      "symbol": "BabyDoge",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc748673057861a797275cd8a068abb95a902e8de.png"
+    },
+    {
+      "name": "FARA",
+      "address": "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1",
+      "symbol": "FARA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1.png"
+    },
+    {
+      "name": "MIST",
+      "address": "0x68e374f856bf25468d365e539b700b648bf94b67",
+      "symbol": "MIST",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x68e374f856bf25468d365e539b700b648bf94b67.png"
+    },
+    {
+      "name": "OKS",
+      "address": "0x18acf236eb40c0d4824fb8f2582ebbecd325ef6a",
+      "symbol": "OKS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x18acf236eb40c0d4824fb8f2582ebbecd325ef6a.png"
+    },
+    {
+      "name": "EXZO",
+      "address": "0xf8fc63200e181439823251020d691312fdcf5090",
+      "symbol": "EXZO",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf8fc63200e181439823251020d691312fdcf5090.png"
+    },
+    {
+      "name": "BaNkr",
+      "address": "0x240eb70aafe740f753066a413ddad73b7c72b4e2",
+      "symbol": "BaNkr",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x240eb70aafe740f753066a413ddad73b7c72b4e2.png"
+    },
+    {
+      "name": "CP",
+      "address": "0x82c19905b036bf4e329740989dcf6ae441ae26c1",
+      "symbol": "CP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x82c19905b036bf4e329740989dcf6ae441ae26c1.png"
+    },
+    {
+      "name": "SKILL",
+      "address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+      "symbol": "SKILL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab.png"
+    },
+    {
+      "name": "BMON",
+      "address": "0x08ba0619b1e7a582e0bce5bbe9843322c954c340",
+      "symbol": "BMON",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x08ba0619b1e7a582e0bce5bbe9843322c954c340.png"
+    },
+    {
+      "name": "ITAM",
+      "address": "0x04c747b40be4d535fc83d09939fb0f626f32800b",
+      "symbol": "ITAM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x04c747b40be4d535fc83d09939fb0f626f32800b.png"
+    },
+    {
+      "name": "BAKE",
+      "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+      "symbol": "BAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
+    },
+    {
+      "name": "LORY",
+      "address": "0xcd5d75dbe75449a9021b6c570a41959eb571c751",
+      "symbol": "LORY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xcd5d75dbe75449a9021b6c570a41959eb571c751.png"
+    },
+    {
+      "name": "BUNNY",
+      "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+      "symbol": "BUNNY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51.png"
+    },
+    {
+      "name": "QBT",
+      "address": "0x17b7163cf1dbd286e262ddc68b553d899b93f526",
+      "symbol": "QBT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x17b7163cf1dbd286e262ddc68b553d899b93f526.png"
+    },
+    {
+      "name": "CTK",
+      "address": "0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929",
+      "symbol": "CTK",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929.png"
+    },
+    {
+      "name": "TRX",
+      "address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
+      "symbol": "TRX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b.png"
+    },
+    {
+      "name": "DFY",
+      "address": "0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2",
+      "symbol": "DFY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2.png"
+    },
+    {
+      "name": "FINE",
+      "address": "0x4e6415a5727ea08aae4580057187923aec331227",
+      "symbol": "FINE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4e6415a5727ea08aae4580057187923aec331227.png"
+    },
+    {
+      "name": "SAFEHAMSTERS",
+      "address": "0xa016f295a5957cb80d03d8e5464a429007555124",
+      "symbol": "SAFEHAMSTERS",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa016f295a5957cb80d03d8e5464a429007555124.png"
+    },
+    {
+      "name": "Kala",
+      "address": "0x32299c93960bb583a43c2220dc89152391a610c5",
+      "symbol": "Kala",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x32299c93960bb583a43c2220dc89152391a610c5.png"
+    },
+    {
+      "name": "PRPT",
+      "address": "0x9895f9b3046d9070d9f2b0a7cbb1b3eb819314bc",
+      "symbol": "PRPT",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9895f9b3046d9070d9f2b0a7cbb1b3eb819314bc.png"
+    },
+    {
+      "name": "SWAPP",
+      "address": "0x0efe961c733ff46ce34c56a73eba0c6a0e18e0f5",
+      "symbol": "SWAPP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0efe961c733ff46ce34c56a73eba0c6a0e18e0f5.png"
+    },
+    {
+      "name": "C98",
+      "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+      "symbol": "C98",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xaec945e04baf28b135fa7c640f624f8d90f1c3a6.png"
+    },
+    {
+      "name": "COS",
+      "address": "0x96dd399f9c3afda1f194182f71600f1b65946501",
+      "symbol": "COS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x96dd399f9c3afda1f194182f71600f1b65946501.png"
+    },
+    {
+      "name": "CTSI",
+      "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
+      "symbol": "CTSI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8da443f84fea710266c8eb6bc34b71702d033ef2.png"
+    },
+    {
+      "name": "COTI",
+      "address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
+      "symbol": "COTI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb.png"
+    },
+    {
+      "name": "CELR",
+      "address": "0x1f9f6a696c6fd109cd3956f45dc709d2b3902163",
+      "symbol": "CELR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1f9f6a696c6fd109cd3956f45dc709d2b3902163.png"
+    },
+    {
+      "name": "NRV",
+      "address": "0x42f6f551ae042cbe50c739158b4f0cac0edb9096",
+      "symbol": "NRV",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x42f6f551ae042cbe50c739158b4f0cac0edb9096.png"
+    },
+    {
+      "name": "MATH",
+      "address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
+      "symbol": "MATH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf218184af829cf2b0019f8e6f0b2423498a36983.png"
+    },
+    {
+      "name": "SFP",
+      "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+      "symbol": "SFP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb.png"
+    },
+    {
+      "name": "WRX",
+      "address": "0x8e17ed70334c87ece574c9d537bc153d8609e2a3",
+      "symbol": "WRX",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8e17ed70334c87ece574c9d537bc153d8609e2a3.png"
+    },
+    {
+      "name": "4Belt",
+      "address": "0x9cb73f20164e399958261c289eb5f9846f4d1404",
+      "symbol": "4Belt",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9cb73f20164e399958261c289eb5f9846f4d1404.png"
+    },
+    {
+      "name": "FIWA",
+      "address": "0x633237c6fa30fae46cc5bb22014da30e50a718cc",
+      "symbol": "FIWA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x633237c6fa30fae46cc5bb22014da30e50a718cc.png"
+    },
+    {
+      "name": "xMDX",
+      "address": "0xf6a8291c34b3cce997144e276f3c975b862d7873",
+      "symbol": "xMDX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf6a8291c34b3cce997144e276f3c975b862d7873.png"
+    },
+    {
+      "name": "KISS",
+      "address": "0x6894b3a977fe0492617307348355c4f17be2c70d",
+      "symbol": "KISS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6894b3a977fe0492617307348355c4f17be2c70d.png"
+    },
+    {
+      "name": "LFD",
+      "address": "0xdeb1eaf085979a73ab0e85901d786cba991c2617",
+      "symbol": "LFD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xdeb1eaf085979a73ab0e85901d786cba991c2617.png"
+    },
+    {
+      "name": "BPET",
+      "address": "0x24d787e9b88cb62d74e961c1c1d78e4ee47618e5",
+      "symbol": "BPET",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x24d787e9b88cb62d74e961c1c1d78e4ee47618e5.png"
+    },
+    {
+      "name": "XWG",
+      "address": "0x6b23c89196deb721e6fd9726e6c76e4810a464bc",
+      "symbol": "XWG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6b23c89196deb721e6fd9726e6c76e4810a464bc.png"
+    },
+    {
+      "name": "MATIC",
+      "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xcc42724c6683b7e57334c4e856f4c9965ed682bd.png"
+    },
+    {
+      "name": "ELF",
+      "address": "0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9",
+      "symbol": "ELF",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9.png"
+    },
+    {
+      "name": "BSCPAD",
+      "address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700",
+      "symbol": "BSCPAD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700.png"
+    },
+    {
+      "name": "DVI",
+      "address": "0x758fb037a375f17c7e195cc634d77da4f554255b",
+      "symbol": "DVI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x758fb037a375f17c7e195cc634d77da4f554255b.png"
+    },
+    {
+      "name": "MBOX",
+      "address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
+      "symbol": "MBOX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377.png"
+    },
+    {
+      "name": "Bzzone",
+      "address": "0x47fa20ba81333ba507d687913baf7c89432182a1",
+      "symbol": "Bzzone",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x47fa20ba81333ba507d687913baf7c89432182a1.png"
+    },
+    {
+      "name": "FSWAP",
+      "address": "0xd22246644d2be5d0427a8e474477d96677c3ec24",
+      "symbol": "FSWAP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd22246644d2be5d0427a8e474477d96677c3ec24.png"
+    },
+    {
+      "name": "KINE",
+      "address": "0xbfa9df9ed8805e657d0feab5d186c6a567752d7f",
+      "symbol": "KINE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbfa9df9ed8805e657d0feab5d186c6a567752d7f.png"
+    },
+    {
+      "name": "CPD",
+      "address": "0x2406dce4da5ab125a18295f4fb9fd36a0f7879a2",
+      "symbol": "CPD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x2406dce4da5ab125a18295f4fb9fd36a0f7879a2.png"
+    },
+    {
+      "name": "HOLDEX",
+      "address": "0xd85b5e9a7c33832dcdb554ec07cdcc56810b2e5a",
+      "symbol": "HOLDEX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd85b5e9a7c33832dcdb554ec07cdcc56810b2e5a.png"
+    },
+    {
+      "name": "ELK",
+      "address": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
+      "symbol": "ELK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c.png"
+    },
+    {
+      "name": "TLM",
+      "address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+      "symbol": "TLM",
+      "decimals": 4,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x2222227e22102fe3322098e4cbfe18cfebd57c95.png"
+    },
+    {
+      "name": "HERO",
+      "address": "0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13",
+      "symbol": "HERO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13.png"
+    },
+    {
+      "name": "ALP",
+      "address": "0x6775729fad1438116b2e3b4fb2878539795297a7",
+      "symbol": "ALP",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6775729fad1438116b2e3b4fb2878539795297a7.png"
+    },
+    {
+      "name": "GAMEFI",
+      "address": "0xa085f089e74019259adb8b91bab222429c1309ae",
+      "symbol": "GAMEFI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa085f089e74019259adb8b91bab222429c1309ae.png"
+    },
+    {
+      "name": "HEROES",
+      "address": "0x261510dd6257494eea1dda7618dbe8a7b87870dd",
+      "symbol": "HEROES",
+      "decimals": 12,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x261510dd6257494eea1dda7618dbe8a7b87870dd.png"
+    },
+    {
+      "name": "HAPPY",
+      "address": "0xf5d8a096cccb31b9d7bce5afe812be23e3d4690d",
+      "symbol": "HAPPY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf5d8a096cccb31b9d7bce5afe812be23e3d4690d.png"
+    },
+    {
+      "name": "WE",
+      "address": "0x0dd3a140346a94d403ac62385daaf5a86b50e752",
+      "symbol": "WE",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0dd3a140346a94d403ac62385daaf5a86b50e752.png"
+    },
+    {
+      "name": "PRB",
+      "address": "0x59ff585aa42939853e2587b07ee8f94017584a88",
+      "symbol": "PRB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x59ff585aa42939853e2587b07ee8f94017584a88.png"
+    },
+    {
+      "name": "SATOZ",
+      "address": "0xf4341fa52669cea0c1836095529a7e9b04b8b88d",
+      "symbol": "SATOZ",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf4341fa52669cea0c1836095529a7e9b04b8b88d.png"
+    },
+    {
+      "name": "PIZA",
+      "address": "0xfc646d0b564bf191b3d3adf2b620a792e485e6da",
+      "symbol": "PIZA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xfc646d0b564bf191b3d3adf2b620a792e485e6da.png"
+    },
+    {
+      "name": "MONI",
+      "address": "0x9573c88ae3e37508f87649f87c4dd5373c9f31e0",
+      "symbol": "MONI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9573c88ae3e37508f87649f87c4dd5373c9f31e0.png"
+    },
+    {
+      "name": "BFG",
+      "address": "0xbb46693ebbea1ac2070e59b4d043b47e2e095f86",
+      "symbol": "BFG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbb46693ebbea1ac2070e59b4d043b47e2e095f86.png"
+    },
+    {
+      "name": "KUN",
+      "address": "0x1a2fb0af670d0234c2857fad35b789f8cb725584",
+      "symbol": "KUN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1a2fb0af670d0234c2857fad35b789f8cb725584.png"
+    },
+    {
+      "name": "ARV",
+      "address": "0x6679eb24f59dfe111864aec72b443d1da666b360",
+      "symbol": "ARV",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6679eb24f59dfe111864aec72b443d1da666b360.png"
+    },
+    {
+      "name": "NFS",
+      "address": "0x64815277c6caf24c1c2b55b11c78ef393237455c",
+      "symbol": "NFS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x64815277c6caf24c1c2b55b11c78ef393237455c.png"
+    },
+    {
+      "name": "HASH",
+      "address": "0xeb1112ac78d537853150e2a07e8b765e29d3f019",
+      "symbol": "HASH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xeb1112ac78d537853150e2a07e8b765e29d3f019.png"
+    },
+    {
+      "name": "BG",
+      "address": "0x07abe236bb21e96c2e2319766745f782dcd0b0c8",
+      "symbol": "BG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x07abe236bb21e96c2e2319766745f782dcd0b0c8.png"
+    },
+    {
+      "name": "DMT",
+      "address": "0x3eb05a201817f87c198930b86f40c6829340b4b7",
+      "symbol": "DMT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3eb05a201817f87c198930b86f40c6829340b4b7.png"
+    },
+    {
+      "name": "DUSD",
+      "address": "0x22fda23aed456f2de139c6240f0776ef031c8b6b",
+      "symbol": "DUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x22fda23aed456f2de139c6240f0776ef031c8b6b.png"
+    },
+    {
+      "name": "scUSD",
+      "address": "0x0e5c2b15666eee4b66788e45cf4da0392c070fa7",
+      "symbol": "scUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0e5c2b15666eee4b66788e45cf4da0392c070fa7.png"
+    },
+    {
+      "name": "NFTART",
+      "address": "0xf7844cb890f4c339c497aeab599abdc3c874b67a",
+      "symbol": "NFTART",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf7844cb890f4c339c497aeab599abdc3c874b67a.png"
+    },
+    {
+      "name": "PID",
+      "address": "0x1215ed20aa507578ca352e195016f289e7a17f3a",
+      "symbol": "PID",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1215ed20aa507578ca352e195016f289e7a17f3a.png"
+    },
+    {
+      "name": "ELMON",
+      "address": "0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f",
+      "symbol": "ELMON",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f.png"
+    },
+    {
+      "name": "PROT",
+      "address": "0xd3c9609b6cbc6ef02390f33c230590c38f9e5f9d",
+      "symbol": "PROT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd3c9609b6cbc6ef02390f33c230590c38f9e5f9d.png"
+    },
+    {
+      "name": "KART",
+      "address": "0x8bdd8dbcbdf0c066ca5f3286d33673aa7a553c10",
+      "symbol": "KART",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8bdd8dbcbdf0c066ca5f3286d33673aa7a553c10.png"
+    },
+    {
+      "name": "MILIT",
+      "address": "0xeea7c025b1eee9527d631094d45ff9ce5d830b6f",
+      "symbol": "MILIT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xeea7c025b1eee9527d631094d45ff9ce5d830b6f.png"
+    },
+    {
+      "name": "JGN",
+      "address": "0xc13b7a43223bb9bf4b69bd68ab20ca1b79d81c75",
+      "symbol": "JGN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc13b7a43223bb9bf4b69bd68ab20ca1b79d81c75.png"
+    },
+    {
+      "name": "RACA",
+      "address": "0x12bb890508c125661e03b09ec06e404bc9289040",
+      "symbol": "RACA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x12bb890508c125661e03b09ec06e404bc9289040.png"
+    },
+    {
+      "name": "GM",
+      "address": "0xe2604c9561d490624aa35e156e65e590eb749519",
+      "symbol": "GM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe2604c9561d490624aa35e156e65e590eb749519.png"
+    },
+    {
+      "name": "BNBH",
+      "address": "0xd25631648e3ad4863332319e8e0d6f2a8ec6f267",
+      "symbol": "BNBH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd25631648e3ad4863332319e8e0d6f2a8ec6f267.png"
+    },
+    {
+      "name": "PIT",
+      "address": "0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50",
+      "symbol": "PIT",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50.png"
+    },
+    {
+      "name": "ETERNAL",
+      "address": "0xd44fd09d74cd13838f137b590497595d6b3feea4",
+      "symbol": "ETERNAL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd44fd09d74cd13838f137b590497595d6b3feea4.png"
+    },
+    {
+      "name": "Nora",
+      "address": "0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0",
+      "symbol": "Nora",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0.png"
+    },
+    {
+      "name": "BNX",
+      "address": "0x8c851d1a123ff703bd1f9dabe631b69902df5f97",
+      "symbol": "BNX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8c851d1a123ff703bd1f9dabe631b69902df5f97.png"
+    },
+    {
+      "name": "GZONE",
+      "address": "0xb6adb74efb5801160ff749b1985fd3bd5000e938",
+      "symbol": "GZONE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xb6adb74efb5801160ff749b1985fd3bd5000e938.png"
+    },
+    {
+      "name": "BCOIN",
+      "address": "0x00e1656e45f18ec6747f5a8496fd39b50b38396d",
+      "symbol": "BCOIN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x00e1656e45f18ec6747f5a8496fd39b50b38396d.png"
+    },
+    {
+      "name": "NFTL",
+      "address": "0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd",
+      "symbol": "NFTL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd.png"
+    },
+    {
+      "name": "CCAR",
+      "address": "0x50332bdca94673f33401776365b66cc4e81ac81d",
+      "symbol": "CCAR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x50332bdca94673f33401776365b66cc4e81ac81d.png"
+    },
+    {
+      "name": "VLXPAD",
+      "address": "0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0",
+      "symbol": "VLXPAD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0.png"
+    },
+    {
+      "name": "CWT",
+      "address": "0x5a726a26edb0df8fd55f03cc30af8a7cea81e78d",
+      "symbol": "CWT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5a726a26edb0df8fd55f03cc30af8a7cea81e78d.png"
+    },
+    {
+      "name": "IDO",
+      "address": "0x617ba3d39e96c084e60c6db3f7b365a96ee4e555",
+      "symbol": "IDO",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x617ba3d39e96c084e60c6db3f7b365a96ee4e555.png"
+    },
+    {
+      "name": "CATE",
+      "address": "0xe4fae3faa8300810c835970b9187c268f55d998f",
+      "symbol": "CATE",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe4fae3faa8300810c835970b9187c268f55d998f.png"
+    },
+    {
+      "name": "XL",
+      "address": "0x61ae5b63c8f7400c21613f882c9b0a8eec586a10",
+      "symbol": "XL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x61ae5b63c8f7400c21613f882c9b0a8eec586a10.png"
+    },
+    {
+      "name": "ASPO",
+      "address": "0x1a9b49e9f075c37fe5f86c916bac9deb33556d7e",
+      "symbol": "ASPO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1a9b49e9f075c37fe5f86c916bac9deb33556d7e.png"
+    },
+    {
+      "name": "CDT",
+      "address": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+      "symbol": "CDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece.png"
+    },
+    {
+      "name": "ARCANE",
+      "address": "0x477565b356b3973d16e8cd837c6970613f13e24a",
+      "symbol": "ARCANE",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x477565b356b3973d16e8cd837c6970613f13e24a.png"
+    },
+    {
+      "name": "RPG",
+      "address": "0xc2098a8938119a52b1f7661893c0153a6cb116d5",
+      "symbol": "RPG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc2098a8938119a52b1f7661893c0153a6cb116d5.png"
+    },
+    {
+      "name": "Ginza",
+      "address": "0x32d7da6a7cf25ed1b86e1b0ee9a62b0252d46b16",
+      "symbol": "Ginza",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x32d7da6a7cf25ed1b86e1b0ee9a62b0252d46b16.png"
+    },
+    {
+      "name": "Meta",
+      "address": "0x0a2046c7faa5a5f2b38c0599deb4310ab781cc83",
+      "symbol": "Meta",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0a2046c7faa5a5f2b38c0599deb4310ab781cc83.png"
+    },
+    {
+      "name": "ALU",
+      "address": "0x8263cd1601fe73c066bf49cc09841f35348e3be0",
+      "symbol": "ALU",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8263cd1601fe73c066bf49cc09841f35348e3be0.png"
+    },
+    {
+      "name": "THG",
+      "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+      "symbol": "THG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9fd87aefe02441b123c3c32466cd9db4c578618f.png"
+    },
+    {
+      "name": "BLWA",
+      "address": "0x5c7c45e7c8febb2a16092fe32bc465e88d4389eb",
+      "symbol": "BLWA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5c7c45e7c8febb2a16092fe32bc465e88d4389eb.png"
+    },
+    {
+      "name": "FINA",
+      "address": "0x426c72701833fddbdfc06c944737c6031645c708",
+      "symbol": "FINA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x426c72701833fddbdfc06c944737c6031645c708.png"
+    },
+    {
+      "name": "NABOX",
+      "address": "0x755f34709e369d37c6fa52808ae84a32007d1155",
+      "symbol": "NABOX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x755f34709e369d37c6fa52808ae84a32007d1155.png"
+    },
+    {
+      "name": "DAR",
+      "address": "0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978",
+      "symbol": "DAR",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978.png"
+    },
+    {
+      "name": "Rici",
+      "address": "0x96a938d3a91e864cc9f342b8b5cfce06d0bc8cea",
+      "symbol": "Rici",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x96a938d3a91e864cc9f342b8b5cfce06d0bc8cea.png"
+    },
+    {
+      "name": "GYRO",
+      "address": "0x1b239abe619e74232c827fbe5e49a4c072bd869d",
+      "symbol": "GYRO",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1b239abe619e74232c827fbe5e49a4c072bd869d.png"
+    },
+    {
+      "name": "sGYRO",
+      "address": "0xdc93eb0eb1bf2ac6da14b3ee54a8d7fbb15bb058",
+      "symbol": "sGYRO",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xdc93eb0eb1bf2ac6da14b3ee54a8d7fbb15bb058.png"
+    },
+    {
+      "name": "GODZ",
+      "address": "0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43",
+      "symbol": "GODZ",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43.png"
+    },
+    {
+      "name": "HTD",
+      "address": "0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f",
+      "symbol": "HTD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f.png"
+    },
+    {
+      "name": "DXCT",
+      "address": "0x5b1baec64af6dc54e6e04349315919129a6d3c23",
+      "symbol": "DXCT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5b1baec64af6dc54e6e04349315919129a6d3c23.png"
+    },
+    {
+      "name": "CSHIP",
+      "address": "0x6218079f1a5d50d3a8358093699b9943a662ef7c",
+      "symbol": "CSHIP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6218079f1a5d50d3a8358093699b9943a662ef7c.png"
+    },
+    {
+      "name": "ZUKI",
+      "address": "0xe81257d932280ae440b17afc5f07c8a110d21432",
+      "symbol": "ZUKI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe81257d932280ae440b17afc5f07c8a110d21432.png"
+    },
+    {
+      "name": "MAHA",
+      "address": "0xce86f7fcd3b40791f63b86c3ea3b8b355ce2685b",
+      "symbol": "MAHA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xce86f7fcd3b40791f63b86c3ea3b8b355ce2685b.png"
+    },
+    {
+      "name": "HC",
+      "address": "0xa6e78ad3c9b4a79a01366d01ec4016eb3075d7a0",
+      "symbol": "HC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa6e78ad3c9b4a79a01366d01ec4016eb3075d7a0.png"
+    },
+    {
+      "name": "BABY",
+      "address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657",
+      "symbol": "BABY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657.png"
+    },
+    {
+      "name": "SIP",
+      "address": "0x9e5965d28e8d44cae8f9b809396e0931f9df71ca",
+      "symbol": "SIP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9e5965d28e8d44cae8f9b809396e0931f9df71ca.png"
+    },
+    {
+      "name": "Zoo",
+      "address": "0x1d229b958d5ddfca92146585a8711aecbe56f095",
+      "symbol": "Zoo",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1d229b958d5ddfca92146585a8711aecbe56f095.png"
+    },
+    {
+      "name": "TOP",
+      "address": "0x16de6497292ca52d10038c641bd1d518113a51dc",
+      "symbol": "TOP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x16de6497292ca52d10038c641bd1d518113a51dc.png"
+    },
+    {
+      "name": "GER",
+      "address": "0x0e9b29aa5aed3d65867db8b980484c8c49a7f915",
+      "symbol": "GER",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0e9b29aa5aed3d65867db8b980484c8c49a7f915.png"
+    },
+    {
+      "name": "SSS",
+      "address": "0xc3028fbc1742a16a5d69de1b334cbce28f5d7eb3",
+      "symbol": "SSS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc3028fbc1742a16a5d69de1b334cbce28f5d7eb3.png"
+    },
+    {
+      "name": "SHEESHA",
+      "address": "0x232fb065d9d24c34708eedbf03724f2e95abe768",
+      "symbol": "SHEESHA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x232fb065d9d24c34708eedbf03724f2e95abe768.png"
+    },
+    {
+      "name": "RGOLD",
+      "address": "0x0496ccd13c9848f9c7d1507d1dd86a360b51b596",
+      "symbol": "RGOLD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0496ccd13c9848f9c7d1507d1dd86a360b51b596.png"
+    },
+    {
+      "name": "VBN",
+      "address": "0x4b41ca61f5fbe12ddba38bc2d8bacc5f68fd491f",
+      "symbol": "VBN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4b41ca61f5fbe12ddba38bc2d8bacc5f68fd491f.png"
+    },
+    {
+      "name": "ATL",
+      "address": "0x1fd991fb6c3102873ba68a4e6e6a87b3a5c10271",
+      "symbol": "ATL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1fd991fb6c3102873ba68a4e6e6a87b3a5c10271.png"
+    },
+    {
+      "name": "WAG",
+      "address": "0x7fa7df4996ac59f398476892cfb195ed38543520",
+      "symbol": "WAG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7fa7df4996ac59f398476892cfb195ed38543520.png"
+    },
+    {
+      "name": "SYN",
+      "address": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+      "symbol": "SYN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa4080f1778e69467e905b8d6f72f6e441f9e9484.png"
+    },
+    {
+      "name": "COGI",
+      "address": "0x6cb755c4b82e11e727c05f697c790fdbc4253957",
+      "symbol": "COGI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6cb755c4b82e11e727c05f697c790fdbc4253957.png"
+    },
+    {
+      "name": "WNOW",
+      "address": "0x56aa0237244c67b9a854b4efe8479cca0b105289",
+      "symbol": "WNOW",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x56aa0237244c67b9a854b4efe8479cca0b105289.png"
+    },
+    {
+      "name": "CB",
+      "address": "0xf66a8a197d5cb0e2799d79be115208899332a0ba",
+      "symbol": "CB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf66a8a197d5cb0e2799d79be115208899332a0ba.png"
+    },
+    {
+      "name": "PACOCA",
+      "address": "0x55671114d774ee99d653d6c12460c780a67f1d18",
+      "symbol": "PACOCA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x55671114d774ee99d653d6c12460c780a67f1d18.png"
+    },
+    {
+      "name": "SALE",
+      "address": "0x04f73a09e2eb410205be256054794fb452f0d245",
+      "symbol": "SALE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x04f73a09e2eb410205be256054794fb452f0d245.png"
+    },
+    {
+      "name": "LAC",
+      "address": "0xe6f079e74000a0afc517c1eff9624d866d163b75",
+      "symbol": "LAC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe6f079e74000a0afc517c1eff9624d866d163b75.png"
+    },
+    {
+      "name": "MON",
+      "address": "0x5e4f0f6fac92e76e41a0d043df565fe8fbfc1de3",
+      "symbol": "MON",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5e4f0f6fac92e76e41a0d043df565fe8fbfc1de3.png"
+    },
+    {
+      "name": "MTW",
+      "address": "0xfce3efebc79d21a6b7cc7f3a7216e66e81f4b23b",
+      "symbol": "MTW",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xfce3efebc79d21a6b7cc7f3a7216e66e81f4b23b.png"
+    },
+    {
+      "name": "AVN",
+      "address": "0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb",
+      "symbol": "AVN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbf151f63d8d1287db5fc7a3bc104a9c38124cdeb.png"
+    },
+    {
+      "name": "FHTN",
+      "address": "0x87be0b856960f57fb0104ef0922cd1dacbd37f64",
+      "symbol": "FHTN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x87be0b856960f57fb0104ef0922cd1dacbd37f64.png"
+    },
+    {
+      "name": "SPC",
+      "address": "0xa2f017966d967ec697c7a20cf9d0b43cb8d4ff1d",
+      "symbol": "SPC",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa2f017966d967ec697c7a20cf9d0b43cb8d4ff1d.png"
+    },
+    {
+      "name": "LEPA",
+      "address": "0xa4050aa9b76ccdae1a6a8b2f3e8627cdc1546d86",
+      "symbol": "LEPA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa4050aa9b76ccdae1a6a8b2f3e8627cdc1546d86.png"
+    },
+    {
+      "name": "KLV",
+      "address": "0xf78cd79b6938c882a388278ee15a2e7d17fd229f",
+      "symbol": "KLV",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf78cd79b6938c882a388278ee15a2e7d17fd229f.png"
+    },
+    {
+      "name": "IVS",
+      "address": "0x0310fe5aebe72308154ad01bf5ec80011cfbfc9c",
+      "symbol": "IVS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0310fe5aebe72308154ad01bf5ec80011cfbfc9c.png"
+    },
+    {
+      "name": "DogeKing",
+      "address": "0x641ec142e67ab213539815f67e4276975c2f8d50",
+      "symbol": "DogeKing",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x641ec142e67ab213539815f67e4276975c2f8d50.png"
+    },
+    {
+      "name": "MSC",
+      "address": "0xeacad6c99965cde0f31513dd72de79fa24610767",
+      "symbol": "MSC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xeacad6c99965cde0f31513dd72de79fa24610767.png"
+    },
+    {
+      "name": "SPG",
+      "address": "0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1",
+      "symbol": "SPG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1.png"
+    },
+    {
+      "name": "DOME",
+      "address": "0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
+      "symbol": "DOME",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x475bfaa1848591ae0e6ab69600f48d828f61a80e.png"
+    },
+    {
+      "name": "Oppa",
+      "address": "0xe3861027f1867f25d9b0313ee633485121ddb40b",
+      "symbol": "Oppa",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe3861027f1867f25d9b0313ee633485121ddb40b.png"
+    },
+    {
+      "name": "Froyo",
+      "address": "0xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9",
+      "symbol": "Froyo",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9.png"
+    },
+    {
+      "name": "MEER",
+      "address": "0xba552586ea573eaa3436f04027ff4effd0c0abbb",
+      "symbol": "MEER",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xba552586ea573eaa3436f04027ff4effd0c0abbb.png"
+    },
+    {
+      "name": "CATS",
+      "address": "0x3b3691d4c3ec75660f203f41adc6296a494404d0",
+      "symbol": "CATS",
+      "decimals": 0,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3b3691d4c3ec75660f203f41adc6296a494404d0.png"
+    },
+    {
+      "name": "MPL",
+      "address": "0xba007b6170c602c08545ff97395677408688d3a2",
+      "symbol": "MPL",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xba007b6170c602c08545ff97395677408688d3a2.png"
+    },
+    {
+      "name": "LIBERO",
+      "address": "0x0dfcb45eae071b3b846e220560bbcdd958414d78",
+      "symbol": "LIBERO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0dfcb45eae071b3b846e220560bbcdd958414d78.png"
+    },
+    {
+      "name": "SFUND",
+      "address": "0x477bc8d23c634c154061869478bce96be6045d12",
+      "symbol": "SFUND",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x477bc8d23c634c154061869478bce96be6045d12.png"
+    },
+    {
+      "name": "METAN",
+      "address": "0x879d239bcc0356cf9df8c90442488bce99554c66",
+      "symbol": "METAN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x879d239bcc0356cf9df8c90442488bce99554c66.png"
+    },
+    {
+      "name": "KUNCI",
+      "address": "0x6cf271270662be1c4fc1b7bb7d7d7fc60cc19125",
+      "symbol": "KUNCI",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6cf271270662be1c4fc1b7bb7d7d7fc60cc19125.png"
+    },
+    {
+      "name": "SPRT",
+      "address": "0x56156fb7860d7eb0b4b1a5356c5354b295194a45",
+      "symbol": "SPRT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x56156fb7860d7eb0b4b1a5356c5354b295194a45.png"
+    },
+    {
+      "name": "ACT",
+      "address": "0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d",
+      "symbol": "ACT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d.png"
+    },
+    {
+      "name": "SFD",
+      "address": "0x95d2dfea6f81ee9a6f23bc0b45d5204e548c7f69",
+      "symbol": "SFD",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x95d2dfea6f81ee9a6f23bc0b45d5204e548c7f69.png"
+    },
+    {
+      "name": "WAL",
+      "address": "0xd306c124282880858a634e7396383ae58d37c79c",
+      "symbol": "WAL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd306c124282880858a634e7396383ae58d37c79c.png"
+    },
+    {
+      "name": "CBT",
+      "address": "0x7c73967dc8c804ea028247f5a953052f0cd5fd58",
+      "symbol": "CBT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7c73967dc8c804ea028247f5a953052f0cd5fd58.png"
+    },
+    {
+      "name": "UANG",
+      "address": "0xedd18ee4808a9e75a2e11d1e1a0aa68b12c97140",
+      "symbol": "UANG",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xedd18ee4808a9e75a2e11d1e1a0aa68b12c97140.png"
+    },
+    {
+      "name": "MPL",
+      "address": "0x900826d622229d5cd25d8917c41155b051f92d1d",
+      "symbol": "MPL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x900826d622229d5cd25d8917c41155b051f92d1d.png"
+    },
+    {
+      "name": "SON",
+      "address": "0x3b0e967ce7712ec68131a809db4f78ce9490e779",
+      "symbol": "SON",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3b0e967ce7712ec68131a809db4f78ce9490e779.png"
+    },
+    {
+      "name": "OSW",
+      "address": "0xa21b0f29bc488df22bbd76b9fda8539ba9c11fdc",
+      "symbol": "OSW",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa21b0f29bc488df22bbd76b9fda8539ba9c11fdc.png"
+    },
+    {
+      "name": "INAZ",
+      "address": "0x6e551e88d0ed3ebd56f6b1f42b03bf9e4d68c47f",
+      "symbol": "INAZ",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6e551e88d0ed3ebd56f6b1f42b03bf9e4d68c47f.png"
+    },
+    {
+      "name": "ASTAR",
+      "address": "0x9eeddb9da3bcbfdcfbf075441a9e14c6a8899999",
+      "symbol": "ASTAR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9eeddb9da3bcbfdcfbf075441a9e14c6a8899999.png"
+    },
+    {
+      "name": "ANON",
+      "address": "0x9a980a084d8d72b219e1c79d91faf06bec874d51",
+      "symbol": "ANON",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9a980a084d8d72b219e1c79d91faf06bec874d51.png"
+    },
+    {
+      "name": "TEX",
+      "address": "0x049dd7532148826cde956c7b45fec8c30b514052",
+      "symbol": "TEX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x049dd7532148826cde956c7b45fec8c30b514052.png"
+    },
+    {
+      "name": "STG",
+      "address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+      "symbol": "STG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xb0d502e938ed5f4df2e681fe6e419ff29631d62b.png"
+    },
+    {
+      "name": "MARK",
+      "address": "0x6ea5f827130e81c6b82b6b852b7f0b505110e939",
+      "symbol": "MARK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6ea5f827130e81c6b82b6b852b7f0b505110e939.png"
+    },
+    {
+      "name": "MIT",
+      "address": "0xe6906717f129427eebade5406de68cadd57aa0c0",
+      "symbol": "MIT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe6906717f129427eebade5406de68cadd57aa0c0.png"
+    },
+    {
+      "name": "DPAD",
+      "address": "0x4dcaaa68170053afbbde15774931adba09272a55",
+      "symbol": "DPAD",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4dcaaa68170053afbbde15774931adba09272a55.png"
+    },
+    {
+      "name": "LOOP",
+      "address": "0xce186ad6430e2fe494a22c9edbd4c68794a28b35",
+      "symbol": "LOOP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xce186ad6430e2fe494a22c9edbd4c68794a28b35.png"
+    },
+    {
+      "name": "CFY",
+      "address": "0xd8bf8c31dc7cb21d34fe5bc5cfceaf21e29f22f6",
+      "symbol": "CFY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd8bf8c31dc7cb21d34fe5bc5cfceaf21e29f22f6.png"
+    },
+    {
+      "name": "ZORO",
+      "address": "0x05ad901cf196cbdceab3f8e602a47aadb1a2e69d",
+      "symbol": "ZORO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x05ad901cf196cbdceab3f8e602a47aadb1a2e69d.png"
+    },
+    {
+      "name": "SpacePi",
+      "address": "0x69b14e8d3cebfdd8196bfe530954a0c226e5008e",
+      "symbol": "SpacePi",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x69b14e8d3cebfdd8196bfe530954a0c226e5008e.png"
+    },
+    {
+      "name": "DIGIS",
+      "address": "0x0ff81f18bcb9519ac6027c732d196945ca4d2a9a",
+      "symbol": "DIGIS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0ff81f18bcb9519ac6027c732d196945ca4d2a9a.png"
+    },
+    {
+      "name": "LMV",
+      "address": "0xafc15d3e7ae22bf2c6d4e0855ad576cf31592d2b",
+      "symbol": "LMV",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xafc15d3e7ae22bf2c6d4e0855ad576cf31592d2b.png"
+    },
+    {
+      "name": "TRK",
+      "address": "0xa2e3e2817f00822f3c1e71a604eca4196af923d6",
+      "symbol": "TRK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa2e3e2817f00822f3c1e71a604eca4196af923d6.png"
+    },
+    {
+      "name": "DXL",
+      "address": "0xe66eed5872b05b58fde34aabdd19449e84374383",
+      "symbol": "DXL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe66eed5872b05b58fde34aabdd19449e84374383.png"
+    },
+    {
+      "name": "GMM",
+      "address": "0x5b6bf0c7f989de824677cfbd507d9635965e9cd3",
+      "symbol": "GMM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5b6bf0c7f989de824677cfbd507d9635965e9cd3.png"
+    },
+    {
+      "name": "MTRG",
+      "address": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
+      "symbol": "MTRG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xbd2949f67dcdc549c6ebe98696449fa79d988a9f.png"
+    },
+    {
+      "name": "GMT",
+      "address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
+      "symbol": "GMT",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1.png"
+    },
+    {
+      "name": "MIND",
+      "address": "0xaeadf3de0b0bba4d137c35d64e67a7691366c1db",
+      "symbol": "MIND",
+      "decimals": 5,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xaeadf3de0b0bba4d137c35d64e67a7691366c1db.png"
+    },
+    {
+      "name": "PLATO",
+      "address": "0xf2572fdacf09bfae08ff7d35423870b5a8ac26b7",
+      "symbol": "PLATO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf2572fdacf09bfae08ff7d35423870b5a8ac26b7.png"
+    },
+    {
+      "name": "DEMEN",
+      "address": "0x1fcd9e866324607512444103d2b8cd8d03c81998",
+      "symbol": "DEMEN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x1fcd9e866324607512444103d2b8cd8d03c81998.png"
+    },
+    {
+      "name": "VIM",
+      "address": "0x5bcd91c734d665fe426a5d7156f2ad7d37b76e30",
+      "symbol": "VIM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5bcd91c734d665fe426a5d7156f2ad7d37b76e30.png"
+    },
+    {
+      "name": "ELFT",
+      "address": "0x26b9a652e7d45fff08f2229a835862cdc811e54a",
+      "symbol": "ELFT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x26b9a652e7d45fff08f2229a835862cdc811e54a.png"
+    },
+    {
+      "name": "GST",
+      "address": "0x4a2c860cec6471b9f5f5a336eb4f38bb21683c98",
+      "symbol": "GST",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4a2c860cec6471b9f5f5a336eb4f38bb21683c98.png"
+    },
+    {
+      "name": "GAL",
+      "address": "0xe4cc45bb5dbda06db6183e8bf016569f40497aa5",
+      "symbol": "GAL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe4cc45bb5dbda06db6183e8bf016569f40497aa5.png"
+    },
+    {
+      "name": "MAI",
+      "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+      "symbol": "MAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x3f56e0c36d275367b8c502090edf38289b3dea0d.png"
+    },
+    {
+      "name": "LUNA",
+      "address": "0x156ab3346823b651294766e23e6cf87254d68962",
+      "symbol": "LUNA",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x156ab3346823b651294766e23e6cf87254d68962.png"
+    },
+    {
+      "name": "UST",
+      "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+      "symbol": "UST",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x23396cf899ca06c4472205fc903bdb4de249d6fc.png"
+    },
+    {
+      "name": "FGD",
+      "address": "0x0566b9a8ffb8908682796751eed00722da967be0",
+      "symbol": "FGD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x0566b9a8ffb8908682796751eed00722da967be0.png"
+    },
+    {
+      "name": "BRT",
+      "address": "0xfc9f81b107f51f2383fce56650fedb59c5fd59bd",
+      "symbol": "BRT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xfc9f81b107f51f2383fce56650fedb59c5fd59bd.png"
+    },
+    {
+      "name": "BEE",
+      "address": "0xe070cca5cdfb3f2b434fb91eaf67fa2084f324d7",
+      "symbol": "BEE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xe070cca5cdfb3f2b434fb91eaf67fa2084f324d7.png"
+    },
+    {
+      "name": "FIT",
+      "address": "0x77922a521182a719a48ba650ac2a040269888888",
+      "symbol": "FIT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x77922a521182a719a48ba650ac2a040269888888.png"
+    },
+    {
+      "name": "HOL",
+      "address": "0x3738762b74df5891e958f244c7f8176478bc5360",
+      "symbol": "HOL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x3738762b74df5891e958f244c7f8176478bc5360.png"
+    },
+    {
+      "name": "MOVEZ",
+      "address": "0x039cd22cb49084142d55fcd4b6096a4f51ffb3b4",
+      "symbol": "MOVEZ",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x039cd22cb49084142d55fcd4b6096a4f51ffb3b4.png"
+    },
+    {
+      "name": "TRIAS",
+      "address": "0xa4838122c683f732289805fc3c207febd55babdd",
+      "symbol": "TRIAS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xa4838122c683f732289805fc3c207febd55babdd.png"
+    },
+    {
+      "name": "AQDC",
+      "address": "0x840aca956c06f340083fbdc6d919bdf2368fca0e",
+      "symbol": "AQDC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x840aca956c06f340083fbdc6d919bdf2368fca0e.png"
+    },
+    {
+      "name": "METAH",
+      "address": "0xe13eb199b7ce7f0b211b4e937a18d2ae4e459710",
+      "symbol": "METAH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xe13eb199b7ce7f0b211b4e937a18d2ae4e459710.png"
+    },
+    {
+      "name": "TIFI",
+      "address": "0x17e65e6b9b166fb8e7c59432f0db126711246bc0",
+      "symbol": "TIFI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x17e65e6b9b166fb8e7c59432f0db126711246bc0.png"
+    },
+    {
+      "name": "ANTA",
+      "address": "0x9eaf5369c9a9809bad8716591f9b2f68124ccd63",
+      "symbol": "ANTA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x9eaf5369c9a9809bad8716591f9b2f68124ccd63.png"
+    },
+    {
+      "name": "GBS",
+      "address": "0x2339d8326ec793af7b9e854776a58812430d3a62",
+      "symbol": "GBS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x2339d8326ec793af7b9e854776a58812430d3a62.png"
+    },
+    {
+      "name": "S2K",
+      "address": "0x42bfa18f3f7d82bd7240d8ce5935d51679c5115d",
+      "symbol": "S2K",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x42bfa18f3f7d82bd7240d8ce5935d51679c5115d.png"
+    },
+    {
+      "name": "SOCA",
+      "address": "0x6598463d6cbe4b51e9977437bf1200df4c45286c",
+      "symbol": "SOCA",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x6598463d6cbe4b51e9977437bf1200df4c45286c.png"
+    },
+    {
+      "name": "APC",
+      "address": "0x2aa504586d6cab3c59fa629f74c586d78b93a025",
+      "symbol": "APC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x2aa504586d6cab3c59fa629f74c586d78b93a025.png"
+    },
+    {
+      "name": "OLE",
+      "address": "0xa865197a84e780957422237b5d152772654341f3",
+      "symbol": "OLE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xa865197a84e780957422237b5d152772654341f3.png"
+    },
+    {
+      "name": "ETC",
+      "address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
+      "symbol": "ETC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x3d6545b08693dae087e957cb1180ee38b9e3c25e.png"
+    },
+    {
+      "name": "PLAY",
+      "address": "0x5ecbad49898f06fdbaa01282bc6edb83f217f365",
+      "symbol": "PLAY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x5ecbad49898f06fdbaa01282bc6edb83f217f365.png"
+    },
+    {
+      "name": "FND",
+      "address": "0x264387ad73d19408e34b5d5e13a93174a35cea33",
+      "symbol": "FND",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x264387ad73d19408e34b5d5e13a93174a35cea33.png"
+    },
+    {
+      "name": "BWRC",
+      "address": "0xbce2b12e3aa25225ed716c09c464df528b1e5916",
+      "symbol": "BWRC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xbce2b12e3aa25225ed716c09c464df528b1e5916.png"
+    },
+    {
+      "name": "MFT",
+      "address": "0xdb1a277e6e0c2cc1eba6f340de1addf19c9971f3",
+      "symbol": "MFT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xdb1a277e6e0c2cc1eba6f340de1addf19c9971f3.png"
+    },
+    {
+      "name": "TAP",
+      "address": "0x35bedbf9291b22218a0da863170dcc9329ef2563",
+      "symbol": "TAP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x35bedbf9291b22218a0da863170dcc9329ef2563.png"
+    },
+    {
+      "name": "BBC",
+      "address": "0x37e5da11b6a4dc6d2f7abe232cdd30b0b8fc63b1",
+      "symbol": "BBC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x37e5da11b6a4dc6d2f7abe232cdd30b0b8fc63b1.png"
+    },
+    {
+      "name": "MGLD",
+      "address": "0x87ae87773345fa023e7d1556b1159af6b74cbb57",
+      "symbol": "MGLD",
+      "decimals": 4,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x87ae87773345fa023e7d1556b1159af6b74cbb57.png"
+    },
+    {
+      "name": "BSCS",
+      "address": "0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d",
+      "symbol": "BSCS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d.png"
+    },
+    {
+      "name": "SNS",
+      "address": "0xd5cbae3f69b0640724a6532cc81be9c798a755a7",
+      "symbol": "SNS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xd5cbae3f69b0640724a6532cc81be9c798a755a7.png"
+    },
+    {
+      "name": "GALA",
+      "address": "0x7ddee176f665cd201f93eede625770e2fd911990",
+      "symbol": "GALA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x7ddee176f665cd201f93eede625770e2fd911990.png"
+    },
+    {
+      "name": "TWT",
+      "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+      "symbol": "TWT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x4b0f1812e5df2a09796481ff14017e6005508003.png"
+    },
+    {
+      "name": "PROS",
+      "address": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
+      "symbol": "PROS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xed8c8aa8299c10f067496bb66f8cc7fb338a3405.png"
+    },
+    {
+      "name": "MC",
+      "address": "0x59c49b54d4425c7ff1e49f40958a14d48cc87c26",
+      "symbol": "MC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x59c49b54d4425c7ff1e49f40958a14d48cc87c26.png"
+    },
+    {
+      "name": "LAZIO",
+      "address": "0x77d547256a2cd95f32f67ae0313e450ac200648d",
+      "symbol": "LAZIO",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x77d547256a2cd95f32f67ae0313e450ac200648d.png"
+    },
+    {
+      "name": "VOLT",
+      "address": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac",
+      "symbol": "VOLT",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac.png"
+    },
+    {
+      "name": "GART",
+      "address": "0x6d830e1d0179b4fe656683c9d14c05f8cd95db75",
+      "symbol": "GART",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x6d830e1d0179b4fe656683c9d14c05f8cd95db75.png"
+    },
+    {
+      "name": "SQUA",
+      "address": "0xb82beb6ee0063abd5fc8e544c852237aa62cbb14",
+      "symbol": "SQUA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xb82beb6ee0063abd5fc8e544c852237aa62cbb14.png"
+    },
+    {
+      "name": "BTCMT",
+      "address": "0x410a56541bd912f9b60943fcb344f1e3d6f09567",
+      "symbol": "BTCMT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x410a56541bd912f9b60943fcb344f1e3d6f09567.png"
+    },
+    {
+      "name": "MBE",
+      "address": "0x086ddd008e20dd74c4fb216170349853f8ca8289",
+      "symbol": "MBE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x086ddd008e20dd74c4fb216170349853f8ca8289.png"
+    },
+    {
+      "name": "Fwc",
+      "address": "0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc",
+      "symbol": "Fwc",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x6d3a160b86edcd46d8f9bba25c2f88cccade19fc.png"
+    },
+    {
+      "name": "CC",
+      "address": "0x07766485a3e29145c1a5b63b7f267d82bd520f2e",
+      "symbol": "CC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x07766485a3e29145c1a5b63b7f267d82bd520f2e.png"
+    },
+    {
+      "name": "kiwi",
+      "address": "0xba625fdcc8d35e43e9b9e337779d4e4794a80dac",
+      "symbol": "kiwi",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xba625fdcc8d35e43e9b9e337779d4e4794a80dac.png"
+    },
+    {
+      "name": "SMART",
+      "address": "0x55eca618a100b004c291949abef1bd15e60ae564",
+      "symbol": "SMART",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x55eca618a100b004c291949abef1bd15e60ae564.png"
+    },
+    {
+      "name": "VIDEO",
+      "address": "0x20bbff517598d6926418a6abfc5b51350b4139aa",
+      "symbol": "VIDEO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x20bbff517598d6926418a6abfc5b51350b4139aa.png"
+    },
+    {
+      "name": "wDZOO",
+      "address": "0x56d06a78ef8e95d6043341f24759e2834be6f97b",
+      "symbol": "wDZOO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x56d06a78ef8e95d6043341f24759e2834be6f97b.png"
+    },
+    {
+      "name": "ID",
+      "address": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
+      "symbol": "ID",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x2dff88a56767223a5529ea5960da7a3f5f766406.png"
+    },
+    {
+      "name": "ANKR",
+      "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+      "symbol": "ANKR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xf307910a4c7bbc79691fd374889b36d8531b08e3.png"
+    },
+    {
+      "name": "EDU",
+      "address": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
+      "symbol": "EDU",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xbdeae1ca48894a1759a8374d63925f21f2ee2639.png"
+    },
+    {
+      "name": "WED",
+      "address": "0xddbb3e6f8413d0e3adc700a731da304aec97bcbb",
+      "symbol": "WED",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xddbb3e6f8413d0e3adc700a731da304aec97bcbb.png"
+    },
+    {
+      "name": "BNBx",
+      "address": "0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275",
+      "symbol": "BNBx",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275.png"
+    },
+    {
+      "name": "LSD",
+      "address": "0xcd1b51b87a8a7137d6421ba5a976225187a26777",
+      "symbol": "LSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://raw.githubusercontent.com/mdexCo/token-icons/tokens/bsc/0xcd1b51b87a8a7137d6421ba5a976225187a26777.png"
+    }
+  ]
+}

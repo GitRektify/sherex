@@ -1,0 +1,27 @@
+{
+  "name": "sherex",
+  "displayName": "sherex",
+  "slug": "sherex-app",
+  "icon": "./assets/image/sherex.png",
+  "version": "1.0.0",
+  "extra": {
+    "eas": {
+      "projectId": "11aa8bbd07788e08507a88ca012ad3ae"
+    }
+  },
+  "expo": {
+    "icon": "./assets/image/sherex.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/image/splash.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sherex"
+    }
+  }
+}
