@@ -2,69 +2,85 @@
 
 ## Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note:** Before proceeding, ensure you have completed the [React Native Environment Setup](https://reactnative.dev/docs/environment-setup) up to the "Creating a new application" step.
 
-## Step 1: Install Dependencies
+### Prerequisites
 
-```bash
-yarn install
-```
+* Node.js > v22.4.0
+* npx > v10.8.2
+* Xcode 12
+* CocoaPods 1.15.2
+* JDK > 11
+* Android Studio and Android SDK
 
-## Step 2: Create mocked google-service files
-In order to build the app successfuly, you'll need some extra files
+### Base Dependencies
 
-```bash
-chmod +x ./scripts/copy-sample-files.sh && ./scripts/copy-sample-files.sh
-```
+* `axios` for networking
+* `prop-types` for component property type-checking
+* `dotenv` for environment management
+* `react-navigation` for app navigation
+* `react-native-localization` for string localization
 
-## Step 3: Open .env.debug file and replace **ENV_PROJECT_ID with your [Cloud Project ID](https://cloud.reown.com/)
+---
 
-## Step 4: Start your Application
+## Installation & Setup
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+1. **Install dependencies**
 
-### For Android
+   ```bash
+   yarn install
+   ```
 
-```bash
-yarn android
-```
+2. **Create mocked Google service files**
+   These files are required for a successful build. Run:
 
-### For iOS
+   ```bash
+   chmod +x ./scripts/copy-sample-files.sh && ./scripts/copy-sample-files.sh
+   ```
 
-```bash
-cd ios && pod install
-yarn ios
-```
+3. **Configure environment variables**
+   Open `.env.debug` and replace `ENV_PROJECT_ID` with your [Cloud Project ID](https://cloud.reown.com/).
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly.
+4. **Install CocoaPods dependencies (iOS only)**
+   If using Xcode 12.5 or higher, run:
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+   ```bash
+   cd ios && pod install --repo-update
+   ```
 
+---
 
-# Sherex App
-こちらにアプリソース（React ＋ EXPO）の展開をお願い致します。
+## Running the Application
 
-## Prerequisites
-- Node > v22.4.0
-- Npx > v10.8.2
-- Xcode 12
-- Cocoapods 1.15.2
-- JDK > 11
-- Android Studio and Android SDK
+Open a new terminal from the root of your project and run:
 
-## Base dependencies
-- axios for networking.
-- prop-types to type-check our components exposed properties.
-- dotenv to manage envionments.
-- react-navigation navigation library.
-- react-native-localization for string localization.
+* **Android**
 
-## Usage
-- Go to your project's root folder and run yarn install.
-- run yarn env-dev to config env
-- If you are using Xcode 12.5 or higher got to /ios and execute pod install --repo-update`
-- Run "yarn android" or "npx expo run:ios" to start your application!
+  ```bash
+  yarn android
+  ```
 
-## Build Prod Android
-- yarn build-apk-prod
-## Build Prod iOS
+* **iOS**
+
+  ```bash
+  yarn ios
+  ```
+
+  *(Alternatively, you can run directly from Xcode or Android Studio.)*
+
+If everything is configured correctly, your app should launch on the Android emulator or iOS simulator.
+
+---
+
+## Building Production APK / IPA
+
+* **Build production Android APK**
+
+  ```bash
+  yarn build-apk-prod
+  ```
+
+* **Build production iOS IPA**
+  *(Add your iOS production build command here if different)*
+
+---
